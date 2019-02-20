@@ -1,0 +1,3 @@
+[submodule "3rd_lib"]
+	path = 3rd_lib
+	url = https://github.com/qianhuan571/3rd_lib.git
